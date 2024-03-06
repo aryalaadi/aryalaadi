@@ -3,9 +3,10 @@ visit [aryalaadi.github.io](https://aryalaadi.github.io)
 ```asm
 ;  personal projects:
 
-;  atriOS:              32bit UNIX-like operating system with a microkernel
+;  atriOS:              64bit UNIX-like operating system with a microkernel
 ;  basilisk:            Machine Learning framework in Rust
 ;  cvis:                mathematical linear expression visualiser for linux desktops
+;  scoutnet:            simpler port scanner for unix-like systems
 ;  fractus infinitum:   fractals
 ;  xv6sh-linux:         xv6-public's shell port for linux 
 ;  homer:               simple util which writes random poetry to stdout
