@@ -35,10 +35,13 @@ not reflect your abilities as a developer but instead shows your incompetence.
 
 Again! the open source ecosystem and the freesoftware movement is NOT supposed
 to be a part of your rat race get a fucking job, stop being so insufferable.
+
+If this came off as rude, sorry, not sorry.
 ```
 
 you can also find me on [codeberg](https://codeberg.org/aryalaadi)
 
+more about me in this [signed text file](https://aryalaadi.github.io/aboutme.txt.asc)
 ## pgp key:
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
