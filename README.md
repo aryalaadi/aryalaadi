@@ -2,7 +2,7 @@ visit [aryalaadi.github.io](https://aryalaadi.github.io)
 
 ## personal projects:
 - [atrios](https://github.com/aryalaadi/atrios):              ```64bit UNIX-like operating system with a microkernel```
-- [basilisk](https://github.com/aryalaadi/bailisk):            ```Machine Learning framework in Rust```
+- [basilisk](https://github.com/aryalaadi/basilisk):            ```Machine Learning framework in Rust```
 - [cvis](https://github.com/aryalaadi/cvis):                ```mathematical linear expression visualiser for linux desktops```
 - [scoutnet](https://github.com/aryalaadi/scoutnet):            ```simpler port scanner for unix-like systems```
 - [zinit-xv6-riscv](https://github.com/aryalaadi/zinit-xv6-riscv):     ```init system for xv6-riscv in zig```
