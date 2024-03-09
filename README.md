@@ -1,14 +1,14 @@
 visit [aryalaadi.github.io](https://aryalaadi.github.io)
 
 ## personal projects:
-- [atrios](https://github.com/aryalaadi123/atrios):              ```64bit UNIX-like operating system with a microkernel```
-- [basilisk](https://github.com/aryalaadi123/bailisk):            ```Machine Learning framework in Rust```
-- [cvis](https://github.com/aryalaadi123/cvis):                ```mathematical linear expression visualiser for linux desktops```
-- [scoutnet](https://github.com/aryalaadi123/scoutnet):            ```simpler port scanner for unix-like systems```
-- [zinit-xv6-riscv](https://github.com/aryalaadi123/zinit-xv6-riscv):     ```init system for xv6-riscv in zig```
-- [fractus infinitum](https://github.com/aryalaadi123/fractusinfinitum):   ```fractals```
-- [xv6sh-linux](https://github.com/aryalaadi123/xv6sh-linux):         ```xv6-public's shell port for linux```
-- [homer](https://github.com/aryalaadi123/homer):               ```simple util which writes random poetry to stdout```
+- [atrios](https://github.com/aryalaadi/atrios):              ```64bit UNIX-like operating system with a microkernel```
+- [basilisk](https://github.com/aryalaadi/bailisk):            ```Machine Learning framework in Rust```
+- [cvis](https://github.com/aryalaadi/cvis):                ```mathematical linear expression visualiser for linux desktops```
+- [scoutnet](https://github.com/aryalaadi/scoutnet):            ```simpler port scanner for unix-like systems```
+- [zinit-xv6-riscv](https://github.com/aryalaadi/zinit-xv6-riscv):     ```init system for xv6-riscv in zig```
+- [fractus infinitum](https://github.com/aryalaadi/fractusinfinitum):   ```fractals```
+- [xv6sh-linux](https://github.com/aryalaadi/xv6sh-linux):         ```xv6-public's shell port for linux```
+- [homer](https://github.com/aryalaadi/homer):               ```simple util which writes random poetry to stdout```
 - [more on](https://github.com/aryalaadi?tab=repositories&q=&type=source):             ```https://github.com/aryalaadi?tab=repositories&q=&type=source```
 
 ## projects I contribute to:
