@@ -17,28 +17,6 @@ you should ditch vscode: [emacs supermacy](http://aryalaadi.github.io/0x2.html)
 - [void-packages](https://github.com/void-linux/void-packages):       ```The Void-linux source packages collection```
 - [more on](https://github.com/aryalaadi?tab=repositories&q=&type=fork):        ```https://github.com/aryalaadi?tab=repositories&q=&type=fork```
 
-## not-so-subtle reminder:
-```
-Daily Reminder, if you want to contribute to open source projects, and
-you have to "look" for projects to contribute to, you need to fuck off.
-You are NOT supposed to contribute just for the sake of contributing!
-This is not a place to pad your resume for the rat race!
-You are ONLY supposed to contribute to software that you use and want to see it improve.
-
-Please try to understand and try to follow the freesoftware philosophy.
-learn more on https://www.gnu.org/philosophy/philosophy.html
-
-Once you get into the freesoftware ecosystem and actually use the software,
-only then you will be able to make meaningful contributions! padding your
-github profile with random readme edits or random documentation fixes does
-not reflect your abilities as a developer but instead shows your incompetence.
-
-Again! the open source ecosystem and the freesoftware movement is NOT supposed
-to be a part of your rat race get a fucking job, stop being so insufferable.
-
-If this came off as rude, sorry, not sorry.
-```
-
 you can also find me on [codeberg](https://codeberg.org/aryalaadi)
 
 more about me in this [signed text file](https://aryalaadi.github.io/aboutme.txt.asc)
