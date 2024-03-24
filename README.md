@@ -1,25 +1,5 @@
-visit [aryalaadi.github.io](https://aryalaadi.github.io)
+archive only, now on [codeberg](https://codeberg.org/aryalaadi)
 
-you should ditch vscode: [emacs supermacy](http://aryalaadi.github.io/0x2.html)
-## personal projects:
-- [atrios](https://github.com/aryalaadi/atrios):              ```64bit UNIX-like operating system with a microkernel```
-- [basilisk](https://github.com/aryalaadi/basilisk):            ```Machine Learning framework in Rust```
-- [cvis](https://github.com/aryalaadi/cvis):                ```mathematical linear expression visualiser for linux desktops```
-- [scoutnet](https://github.com/aryalaadi/scoutnet):            ```simpler port scanner for unix-like systems```
-- [zinit-xv6-riscv](https://github.com/aryalaadi/zinit-xv6-riscv):     ```init system for xv6-riscv in zig```
-- [fractus infinitum](https://github.com/aryalaadi/fractusinfinitum):   ```fractals```
-- [xv6sh-linux](https://github.com/aryalaadi/xv6sh-linux):         ```xv6-public's shell port for linux```
-- [homer](https://github.com/aryalaadi/homer):               ```simple util which writes random poetry to stdout```
-- [more on](https://github.com/aryalaadi?tab=repositories&q=&type=source):             ```https://github.com/aryalaadi?tab=repositories&q=&type=source```
-
-## projects I contribute to:
-
-- [void-packages](https://github.com/void-linux/void-packages):       ```The Void-linux source packages collection```
-- [more on](https://github.com/aryalaadi?tab=repositories&q=&type=fork):        ```https://github.com/aryalaadi?tab=repositories&q=&type=fork```
-
-you can also find me on [codeberg](https://codeberg.org/aryalaadi)
-
-more about me in this [signed text file](https://aryalaadi.github.io/aboutme.txt.asc)
 ## pgp key:
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
