@@ -1,5 +1,8 @@
 archive only, now on [codeberg](https://codeberg.org/aryalaadi)
 
+alternatively, my self hosted git [service](https://git.aryalaadi.xyz)
+
+visit me @ [aryalaadi.xyz](https://aryalaadi.xyz)
 ## pgp key:
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
