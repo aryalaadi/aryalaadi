@@ -1,5 +1,3 @@
-contributions only, personal projects now on [codeberg](https://codeberg.org/aryalaadi)
-
 visit me @ [aryalaadi.codeberg.page](https://aryalaadi.codeberg.page/)
 ## pgp key:
 ```pgp
