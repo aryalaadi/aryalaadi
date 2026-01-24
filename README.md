@@ -1,4 +1,5 @@
-visit me @ [aryalaadi.codeberg.page](https://aryalaadi.codeberg.page/)
+visit me @ [aryal.schizoid.men/](https://aryal.schizoid.men/)
+also visit me @ [aryalaadi.codeberg.page](https://aryalaadi.codeberg.page/)
 ## pgp key:
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
